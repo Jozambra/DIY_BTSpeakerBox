@@ -11,7 +11,7 @@ NOTE: A Mains to 12-24V power supply is not included in this design, it recieved
 
 Bellow is a list of the current known issues of the project:
 
--Main PCB is missing mounting wholes for easy attachment to the box.
+-Main PCB is missing mounting wholes for easy attachment to the box (included in the newest revision but missing on the 3D desingn file).
 -Noise floor of the PreAmp is noticeable at low volumes (TO DO: reduce all resistances by a factor of 10 and consider using non-carbon based resistors to reduce thermal noise)
 -Missing Soft Start circuit to prevent Popping on Speakers during Power-Up/Down.
 -Certain combinations of the bass/tremble/mid potentiometers generate an audible oscillation that is transmitted to the spakers; needs further investigation in the filter Op-Amp loop.
