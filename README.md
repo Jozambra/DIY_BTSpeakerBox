@@ -8,6 +8,8 @@ This amplifier set up has been tested with a 12V 3A power supply over a low-medi
 
 NOTE: A Mains to 12-24V power supply is not included in this design, it recieved power from a standard barrel adaptor using an external supply. It is highly recommeded to use a good quality supply to reduce noise in the PreAmp (This alternative has provided decent results during testing: https://a.co/d/3dhSiTF).
 
+NOTE2: Rev 1.1 is the modified version of the main PCB with some mods from the Rev 1.0 already installed. this design is not tested; however, only minor changes were made so its functionallity is highly likely
+
 
 Bellow is a list of the current known issues of the project:
 
